@@ -24,5 +24,13 @@ Table 10 — Per-stanza average number of clauses in the thirty-stanza sections 
 
 Table 11 — The clause centrality results for the first five stanzas of Marína
 
+Table 12 — Average centrality figures in the sets of thirty Marína stanzas
 
+Table 13 — Proportions of significantly deviating clauses in the sets of thirty Marína stanzas (the perspective of clause centrality)
+
+Table 14 – Counts and the chi-square testing of clause laterality in the first five stanzas of Marína
+
+Table 15 – Average laterality figures for the groups of thirty stanzas
+
+Table 16 – Distribution of the types of predicate positions (the perspective of clause laterality)
 
