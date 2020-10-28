@@ -16,5 +16,13 @@ Table 6 — Manhattan distances between neighbouring stanzas in terms of rhyme-w
 
 Table 7 — Distribution of parts of speech in the rhyme-words
 
+Table 8 — Pairs of parts of speech in the rhyme-words
+
+Table 9 — Types of adverbs in Marína
+
+Table 10 — Per-stanza average number of clauses in the thirty-stanza sections of Marína
+
+Table 11 — The clause centrality results for the first five stanzas of Marína
+
 
 
