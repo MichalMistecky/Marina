@@ -8,4 +8,6 @@ Table 2 — Figures of lexis-measuring indicators in the stanzas of Marína
 
 Table 3 — Averages and standard deviations of the vocabulary-richness counts for individual stanzas
 
+Table 4 — Hapax ratio averages of the thirty-stanza sections of Marína
+
 
