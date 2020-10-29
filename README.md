@@ -28,13 +28,13 @@ Table 12 — Average centrality figures in the sets of thirty Marína stanzas
 
 Table 13 — Proportions of significantly deviating clauses in the sets of thirty Marína stanzas (the perspective of clause centrality)
 
-Table 14 – Counts and the chi-square testing of clause laterality in the first five stanzas of Marína
+Table 14 — Counts and the chi-square testing of clause laterality in the first five stanzas of Marína
 
-Table 15 – Average laterality figures for the groups of thirty stanzas
+Table 15 — Average laterality figures for the groups of thirty stanzas
 
-Table 16 – Distribution of the types of predicate positions (the perspective of clause laterality)
+Table 16 — Distribution of the types of predicate positions (the perspective of clause laterality)
 
-Table 17 – Figures of Busemann’s coefficient and chi-square classifications for the Marína stanzas
+Table 17 — Figures of Busemann’s coefficient and chi-square classifications for the Marína stanzas
 
-Table 18 – Activity and chi-square testing classifications of the sections in Marína
+Table 18 — Activity and chi-square testing classifications of the sections in Marína
 
