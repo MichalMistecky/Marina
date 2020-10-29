@@ -1,5 +1,5 @@
 # Marina
-This repository contains the data presented in book Love in Numbers: Sládkovič's Marína from the Viewpoint of Quantitative Linguistics. There are XXX tables in total. 
+This repository contains the data presented in book Love in Numbers: Sládkovič's Marína from the Viewpoint of Quantitative Linguistics. There are 18 tables in total. 
 There is a list of the tables. 
 
 Table 1 — Values of vocabulary richness indexes for the whole of Marína 
@@ -33,4 +33,8 @@ Table 14 – Counts and the chi-square testing of clause laterality in the first
 Table 15 – Average laterality figures for the groups of thirty stanzas
 
 Table 16 – Distribution of the types of predicate positions (the perspective of clause laterality)
+
+Table 17 – Figures of Busemann’s coefficient and chi-square classifications for the Marína stanzas
+
+Table 18 – Activity and chi-square testing classifications of the sections in Marína
 
